@@ -1,0 +1,9 @@
+opencv-python
+matplotlib
+pandas
+lightly
+fiftyone
+albumentations
+torchsummary
+timm
+lightning-bolts
