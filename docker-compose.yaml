@@ -11,6 +11,7 @@ services:
     environment:
       - DISPLAY=$DISPLAY
       - TORCH_HOME=${DATA}
+      - HOME=/workspace/.home
     volumes:
       - /tmp/.X11-unix:/tmp/.X11-unix
       - /dev:/dev

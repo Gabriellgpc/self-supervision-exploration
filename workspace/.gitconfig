@@ -1,0 +1,5 @@
+[user]
+	name = condados
+	email = condadoslgpc@gmail.com
+[credential]
+	helper = "!f() { /workspace/.vscode-server/bin/695af097c7bd098fbf017ce3ac85e09bbc5dda06/node /tmp/vscode-remote-containers-418bea88-e65c-4335-bcdd-f4662af52658.js git-credential-helper $*; }; f"
